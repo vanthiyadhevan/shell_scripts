@@ -1,0 +1,3 @@
+Hello there! \n
+Thwas was an example file. \n
+It contains some text for demonstration purpose.

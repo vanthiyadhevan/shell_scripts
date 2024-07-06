@@ -1,0 +1,15 @@
+    How do you declare an array in a shell script?
+    How can you access elements of an array in a shell script?
+    How do you find the length of an array in a shell script?
+    How do you iterate over all elements of an array in a shell script?
+    How do you add elements to an array in a shell script?
+    How do you remove elements from an array in a shell script?
+    How can you check if an element exists in an array in a shell script?
+    How do you sort an array in a shell script?
+    How do you merge two arrays in a shell script?
+    How can you slice an array in a shell script?
+    How do you copy an array in a shell script?
+    How can you reverse an array in a shell script?
+    How do you search for an element in an array in a shell script?
+    How do you check if an array is empty in a shell script?
+    How do you convert a string to an array in a shell script?
